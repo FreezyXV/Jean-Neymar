@@ -1,0 +1,21 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 30px;
+    overflow-x: scroll;
+}
+
+.aboutImg {
+    width: 600px;
+}
+
+.aboutTitle {
+font-size: 30px;
+font-weight: 400;
+}
+
+.aboutText {
+    font-size: 22px;
+    font-style: normal;
+}

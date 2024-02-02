@@ -1,0 +1,14 @@
+.Book {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 40px;
+}
+
+.BookTitle {
+    font-size: 32px;
+}
+
+.BookText {
+    font-size: 24px;
+}
